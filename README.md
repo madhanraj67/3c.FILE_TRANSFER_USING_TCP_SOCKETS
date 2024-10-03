@@ -57,10 +57,12 @@ while True:
 ```
 ## OUTPUT:
 ### CLIENT:
-![alt text](<client ex7.png>)
+![image](https://github.com/user-attachments/assets/191833d4-c599-45c3-9602-ac83c257ea1f)
+
 
 ### SERVER:
-![alt text](<server ex7.png>)
+![image](https://github.com/user-attachments/assets/7c1442fa-e562-4a9c-a982-f21735a7c34e)
+
 ## RESULT:
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
